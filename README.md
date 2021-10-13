@@ -3,7 +3,7 @@
 - 🌱 I’m learning JavaScript, HTML and CSS. 
 - 💞️ I’m looking to collaborate on any development learning projects
 - 📫 You can reach me through this Github page or via LinkedIN. 
-Thank you. 
+- Thank you!
 
 <!---
 rehan-akhtar/rehan-akhtar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
